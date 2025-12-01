@@ -1,0 +1,23 @@
+# Compiled source
+*.o
+*.obj
+
+# Executables
+a.out
+*.exe
+*.out
+*.bin
+
+# Debug files
+*.log
+*.tmp
+
+# Build directories
+build/
+bin/
+obj/
+
+# VS Code (if you use it)
+.vscode/
+
+*[^.]
